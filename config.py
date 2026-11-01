@@ -5,7 +5,7 @@ API_ID = int("39342891")
 API_HASH = "68687eb7013eddae0609e4dc1d3162c2"
 
 # Your Main Bot Token 
-BOT_TOKEN = "9146432058:AAew1Yk0mAfoSG4tDYmT7J5cZ4s41I9Ku-gk"
+BOT_TOKEN = "9146432058:AAHoRgWx3zeOj0_YSVIn9V9tPMCKvnQP0MY"
 
 # Owner ID For Broadcasting 
 OWNER_ID = int("8416917212") # Owner Id or Admin Id
